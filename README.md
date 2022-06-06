@@ -3,5 +3,4 @@ Celem projektu jest zbadanie predykcji przy użyciu trzech modeli zaimplementowa
 - Przewidywanie w jednym kroku za pomocą uśredniania
 - Wykładnicza średnia krocząca
 - Model LSTM
-
-W celu zbadania dokładności predykcji posłużył analiza błedu średniokwadratowego oraz zasady działąnnia poszczególnych modeli.
+W celu zbadania nowej predykcji zrobił analizę błędu średniokwadratowego oraz zasady działania poszczególnych modeli.
